@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+}
+
+.navbar {
+    padding: 0.5em;
+    padding-left: 1em;
+    background-color: aquamarine;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+.characters_page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.characters_info {
+    padding-left: 10em;
+}
